@@ -13,3 +13,11 @@ The **cd** command allows you to traverse into a directory. This command is case
 `cd “Directory with Space”`
 
 
+## mkdir
+The **mkdir** command creates a new folder or directory. 
+
+###### Example usage
+`mkdir DirectoryName`
+
+`mkdir “Directory with Space”`
+
