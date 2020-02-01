@@ -27,3 +27,21 @@ The **cp** command allows for the copying of files via the command line. It take
  
 ###### Example usage
 `cp myfile.txt /home/destionation/folder/path/mkdir`
+
+
+## pwd
+The **pwd** command helps you figure out which directory you are in. Typing it shows you your full path.
+
+###### Example usage
+`pwd`
+
+
+## mv
+The **mv** command  has two functions: first it allows you to move files through the command line and also it can be used to rename files.  
+
+###### Example usage for moving a file
+`mv file.txt destinationFolder`
+
+###### Example usage for renaming a file
+`mv oldname.txt newname.txt`
+
