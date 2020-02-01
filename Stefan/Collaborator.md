@@ -6,3 +6,6 @@
 4. Add all nesscary collaborators for the project by using their email address.
 	1. ![GitHub Logo](/images/Image21.png)
 5. Be sure that are users that were requested, must accept your invitation.
+
+# References
+[How to install Git](https://www.youtube.com/watch?v=SkaRpztf_2A&feature=youtu.be)
