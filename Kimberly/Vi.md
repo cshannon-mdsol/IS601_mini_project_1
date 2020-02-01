@@ -21,3 +21,9 @@ The **mkdir** command creates a new folder or directory.
 
 `mkdir “Directory with Space”`
 
+
+## cp 
+The **cp** command allows for the copying of files via the command line. It takes two arguments: the first is the location of the file to be copied and the second is the the destination. 
+ 
+###### Example usage
+`cp myfile.txt /home/destionation/folder/path/mkdir`
