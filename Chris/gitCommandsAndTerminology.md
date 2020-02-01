@@ -35,3 +35,7 @@ A push is essentially sending your local commits to a remote repository.
 •   **Pull**
 
 A pull is the opposite of a push where you are retrieving changes from a remote repository. Possibly because someone else has pushed changes to that repository and you want to pull those changes down to your working copy.
+
+•   **Remote Add / Remove / Show**
+
+Git remote commands allow you to do work from the command line on the remote repository without having to login to GitHub.com or use GitHub desktop.
