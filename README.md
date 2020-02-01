@@ -24,7 +24,6 @@ Mini Project 1 - Stefan DeRosa, Kimberly McDaniel, Chris Shannon
 
 * Added [Linux Commands](/Kimberly/Vi.md) - Kimberly
 * Added explanation and diagrams to cover gitFlow [gitFlow](/Chris/gitFlow.md) - Chris 
-
 * Added a list of common commands and terminology used in gitFlow [gitCommandsAndTerminology](/Chris/gitCommandsAndTerminology.md) - Chris 
 
 ## Changed:
