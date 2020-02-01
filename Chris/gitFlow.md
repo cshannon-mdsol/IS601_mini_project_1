@@ -19,3 +19,7 @@ The one scenario where you would touch the master branch outside of what’s abo
 ![Complete](/images/Complete.png)
 
 The team continues to branch off new features and fixes, merge back into develop, branch releases and merge into master and develop and so on for the life of the software. With minimal hotfixes would be nice too.
+
+**References**
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+https://nvie.com/posts/a-successful-git-branching-model/
