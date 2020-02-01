@@ -23,3 +23,7 @@ A commit is essentially a save. When you do work in Git and then commit, you’r
 •   **Merge**
 
 A merge is when you bring two branches back together and combine the work done in one or both of the branches.
+
+•   **Checkout**
+
+A checkout in Git is similar to checking out a book in a library. You can check out different branches or commits within those branches to view what they looked like at that time. The checkout updates the files in the working directory to the way they were at the time of commit. Even though you may be looking at old commits you can still do work and commit again.
