@@ -8,7 +8,8 @@ Mini Project 1 - Stefan DeRosa, Kimberly McDaniel, Chris Shannon
  * final team review of mini project before submission
     [ ] Stefan DeRosa
     [ ] Kimberly McDaniel
-    [X] Chris Shannon
+    [x] Chris Shannon
+
 
 # Page Index
 * [Linux Commands](/Kimberly/Vi.md)
