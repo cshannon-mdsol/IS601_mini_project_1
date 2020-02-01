@@ -16,3 +16,18 @@ Mini Project 1 - Stefan DeRosa, Kimberly McDaniel, Chris Shannon
 * Merge Conflict, Forking vs. Cloning, Pull Request
 * Adding a Collaborator to a GutHub Repo
 
+# ChangeLog
+
+## v1.0.0 - in progress
+
+## Added:
+
+* Added explanation and diagrams to cover gitFlow [gitFlow](/Chris/gitFlow.md) 
+
+* Added a list of common commands and terminology used in gitFlow [gitCommandsAndTerminology](/Chris/gitCommandsAndTerminology.md) 
+
+## Changed:
+
+* Modified README to contain task list, page index, and changelog
+
+## Removed:
