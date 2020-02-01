@@ -61,3 +61,14 @@ The **history** command command lists all the previously used commands you’ve 
 
 ###### Example usage
 `history`
+
+
+## Home directory and ~
+The significance of the Home directory and ~ is that the tilde (~) represents your home directory and it’s the short cut to get back quickly to the home directory. For example, typing cd ~ in terminal will quickly and efficiently take you back to your home directory. 
+
+
+## File paths in Linux
+
+![Linux Directory Structure](../images/Linux-Directory-Structure.jpeg)
+
+Further reading and more detailed information about the detailed strcture of the directory structure can be [found here!](https://www.tecmint.com/linux-directory-structure-and-important-files-paths-explained/)
