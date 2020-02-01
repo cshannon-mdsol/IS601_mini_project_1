@@ -36,7 +36,11 @@ Pull Request notifies other developers concerning on any changes that someone ha
 
 # References
 [Branch/Merge Tuturial](https://saracope.github.io/git-the-basics/#/1)
+
 [Merge Conflict Tuturial 1](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
+
 [Merge Conflict Tuturial 2](https://www.youtube.com/watch?v=MzpW-k66XE8)
-[Forking vs Cloning] (https://github.community/t5/Support-Protips/The-difference-between-forking-and-cloning-a-repository/ba-p/1372)
+
+[Forking vs Cloning](https://github.community/t5/Support-Protips/The-difference-between-forking-and-cloning-a-repository/ba-p/1372)
+
 [Pull Request](https://www.atlassian.com/git/tutorials/making-a-pull-request)
