@@ -39,3 +39,7 @@ A pull is the opposite of a push where you are retrieving changes from a remote 
 •   **Remote Add / Remove / Show**
 
 Git remote commands allow you to do work from the command line on the remote repository without having to login to GitHub.com or use GitHub desktop.
+
+•   **Status**
+
+Git status allows you to see if your local directory is in line with the origin. You will see if the origin or your local is ahead or behind and what types of changes are waiting to be submitted.
