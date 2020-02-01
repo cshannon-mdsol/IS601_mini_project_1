@@ -7,4 +7,5 @@
 	3.	`git branch -d <Name> - delete branch`
 	4.	`git -b checkout branch_name – is a shortcut to create a new branch and commit to another line`
 
+## Reference
 [Branch Tuturial](https://saracope.github.io/git-the-basics/#/1)
