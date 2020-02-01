@@ -2,7 +2,7 @@
 Mini Project 1 - Stefan DeRosa, Kimberly McDaniel, Chris Shannon
 
 *Team task list*
-- [X] Kim to finish Linux Commands section
+- [X] Kimberly to finish Linux Commands section
 - [X] Chris to finish GitFlow explaination section
 - [X] Stefan to finish Collaborating with Git section
 
