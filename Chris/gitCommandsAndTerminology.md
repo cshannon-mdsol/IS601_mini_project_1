@@ -43,3 +43,7 @@ Git remote commands allow you to do work from the command line on the remote rep
 •   **Status**
 
 Git status allows you to see if your local directory is in line with the origin. You will see if the origin or your local is ahead or behind and what types of changes are waiting to be submitted.
+
+•   **Master Branch**
+
+Master Branch is the default name of the main branch when you create a repository.  Most people consider the master branch to be the production branch where all other branches eventually merge back into.
