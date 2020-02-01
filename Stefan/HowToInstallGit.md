@@ -19,5 +19,4 @@
 12.	Once the top list has been completed we can now start to learn branching and other concepts. [Click here](https://github.com/cshannon-mdsol/mini_project_1/blob/master/Stefan/Branch.md) to continue to learn about branching.
 
 # References
-# References
 [How to install Git](https://www.youtube.com/watch?v=SkaRpztf_2A&feature=youtu.be)
