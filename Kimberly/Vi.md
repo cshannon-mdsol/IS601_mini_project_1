@@ -55,3 +55,9 @@ The **rm** command command allows you to delete files and directories.
 ###### Example usage to delete folder and directory
 `rm `
 
+
+## history
+The **history** command command lists all the previously used commands you’ve used on the command line. You can repeat commands by typing ! and the number from the command line history.
+
+###### Example usage
+`history`
