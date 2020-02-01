@@ -28,7 +28,7 @@ Mini Project 1 - Stefan DeRosa, Kimberly McDaniel, Chris Shannon
 * Added [Linux Commands](/Kimberly/Vi.md) - Kimberly
 * Added explanation and diagrams to cover gitFlow [gitFlow](/Chris/gitFlow.md) - Chris 
 * Added a list of common commands and terminology used in gitFlow [gitCommandsAndTerminology](/Chris/gitCommandsAndTerminology.md) - Chris 
-* Added Git Tuturial, Branch Tuturial, Merge Conflict, Forking vs Cloning, Pull Request, and Collaborator. [See Here](https://github.com/cshannon-mdsol/IS601_mini_project_1/tree/master/Stefan)
+* Added Git Tuturial, Branch Tuturial, Merge Conflict, Forking vs Cloning, Pull Request, and Collaborator. [See Here](https://github.com/cshannon-mdsol/IS601_mini_project_1/tree/master/Stefan) - Stefan
 
 ## Changed:
 
