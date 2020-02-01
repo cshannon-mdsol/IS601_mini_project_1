@@ -45,3 +45,13 @@ The **mv** command  has two functions: first it allows you to move files through
 ###### Example usage for renaming a file
 `mv oldname.txt newname.txt`
 
+
+## rm
+The **rm** command command allows you to delete files and directories. 
+
+###### Example usage to delete just the folder
+`rm -r `
+
+###### Example usage to delete folder and directory
+`rm `
+
