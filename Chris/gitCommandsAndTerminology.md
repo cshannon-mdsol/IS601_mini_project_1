@@ -19,3 +19,7 @@ A branch runs parallel to a “master” branch or other branches off of master.
 •   **Commit**
 
 A commit is essentially a save. When you do work in Git and then commit, you’re saving your work along with a record of what was changed and by who. You can also write comments on commits to pass along information about your changes.
+
+•   **Merge**
+
+A merge is when you bring two branches back together and combine the work done in one or both of the branches.
