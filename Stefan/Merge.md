@@ -33,3 +33,5 @@ Cloning on the other hand only works with GitHub where its clone remotely and sy
 # Pull Request 
 Pull Request notifies other developers concerning on any changes that someone had made towards a branch within GitHub. It basically allows developers know that they are done with the updates/changes. Pull request doesnt work with Git but with GutHub.See image below.
 ![GitHub Logo](/images/Image30.png)
+
+# Reference
