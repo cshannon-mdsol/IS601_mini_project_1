@@ -27,3 +27,7 @@ A merge is when you bring two branches back together and combine the work done i
 •   **Checkout**
 
 A checkout in Git is similar to checking out a book in a library. You can check out different branches or commits within those branches to view what they looked like at that time. The checkout updates the files in the working directory to the way they were at the time of commit. Even though you may be looking at old commits you can still do work and commit again.
+
+•   **Push**
+
+A push is essentially sending your local commits to a remote repository.
