@@ -47,3 +47,7 @@ Git status allows you to see if your local directory is in line with the origin.
 •   **Master Branch**
 
 Master Branch is the default name of the main branch when you create a repository.  Most people consider the master branch to be the production branch where all other branches eventually merge back into.
+
+**References**
+https://help.github.com/en/github/getting-started-with-github/github-glossary
+https://linuxacademy.com/blog/linux/git-terms-explained/
