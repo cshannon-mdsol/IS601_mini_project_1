@@ -11,10 +11,10 @@ Mini Project 1 - Stefan DeRosa, Kimberly McDaniel, Chris Shannon
 * [Linux Commands](/Kimberly/Vi.md)
 * [gitFlow](/Chris/gitFlow.md)
 * [gitCommandsAndTerminology](/Chris/gitCommandsAndTerminology.md)
-* Git Tutorial
-* Branch Tutorial
-* Merge Conflict, Forking vs. Cloning, Pull Request
-* Adding a Collaborator to a GutHub Repo
+* [Git Tutorial](https://github.com/cshannon-mdsol/IS601_mini_project_1/blob/master/Stefan/HowToInstallGit.md)
+* [Branch Tutorial](https://github.com/cshannon-mdsol/IS601_mini_project_1/blob/master/Stefan/Branch.md)
+* [Merge Conflict, Forking vs. Cloning, Pull Request](https://github.com/cshannon-mdsol/IS601_mini_project_1/blob/master/Stefan/Merge.md)
+* [Adding a Collaborator to a GutHub Repo](https://github.com/cshannon-mdsol/IS601_mini_project_1/blob/master/Stefan/Collaborator.md)
 
 # ChangeLog
 
