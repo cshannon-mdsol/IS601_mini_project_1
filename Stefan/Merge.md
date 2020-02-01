@@ -6,23 +6,23 @@ There are different ways to avoid merging conflicts. First you can use the git d
 
 Below is a tutorial on how to create a merge conflict:
 1. You want to create a new branch called "NewBranch"
-	1. git checkout -b NewBranch
+	1. `git checkout -b NewBranch`
 ![GitHub Logo](/images/Image11.png)
 2. Let's commit our new branch
-	1. git commit
+	1. `git commit`
 ![GitHub Logo](/images/Image12.png)
 3. Now let's work with master. Checkout Master. Do you see the asterisk(*)? It means that the branch is checkout.
-	1. git checkout master
+	1. `git checkout master`
 ![GitHub Logo](/images/Image13.png)
 3. Once checkout, lets edit the first line of the file.txt and commit within master.
-	1. git add file.txt 
-	2. git commit -m "Changing file in master”`
+	1. `git add file.txt` 
+	2. `git commit -m "Changing file in master”`
 4. Once you complete updating your file, lets now checkout NewBranch and edit the file.txt first line as well.
-	1. git checkout feature
-	2. git add file.txt
-	3. git commit -m "Changing file in feature"`
+	1. `git checkout feature`
+	2. `git add file.txt`
+	3. `git commit -m "Changing file in feature"`
 5. Once change lets now merge master. Be sure that the NewBranch is checkout.
-	1. git merge master
+	1. `git merge master`
 ![GitHub Logo](/images/Image14.png)
 
 # Forking  vs Cloning
