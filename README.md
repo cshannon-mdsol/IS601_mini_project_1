@@ -8,7 +8,7 @@ Mini Project 1 - Stefan DeRosa, Kimberly McDaniel, Chris Shannon
 
 *final team review of mini project before submission*
 - [X] Stefan DeRosa
-- [ ] Kimberly McDaniel
+- [X] Kimberly McDaniel
 - [X] Chris Shannon
 
 
